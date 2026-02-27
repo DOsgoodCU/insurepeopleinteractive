@@ -8,12 +8,12 @@ It has all of the tables and figures we have just worked through **but it also h
 
 Click on the tool below, notice how the matching changes as you drag the sliders for "CHIRPS (Early Season)".
 
-- **type your email in the box in the tool**
+- **type your email in the Login box in the tool**
 - drag the sliders for the "CHIRPS (Early Season)" to be more focused on the rainfall starting around decad 7 and extending 5-10 decads.
 - pick the timing you prefer
 - Write down the start and end decad for "CHIRPS (Early Season)"
-- **making sure your email** is entered, **click on "SAVE"**
-- Login: once you have saved your choices, you can type your email then click on login to see what you entered
+- **making sure your email** is entered in the login box, **click on "SAVE"**
+- Login: once you have saved your choices, you can type your email in the login box then click on login to see what you entered
 - You can change your answer as many times as you want, I think.
 
 **IF THE BOX BELOW IS BLANK, OPEN AN INCOGNITO BROWSER AND PASTE:**
