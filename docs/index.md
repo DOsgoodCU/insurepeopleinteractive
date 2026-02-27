@@ -1,6 +1,6 @@
 # Making sure satellite algorithms meet people's needs
 
-Information from the ground is necessary to design models that meet peoples needs. 
+Information from the ground is necessary to design models that meet peoples needs.
 These materials will guide you through an example of evaluating and improving a satellite index of drought.
 
 ## Client input is necessary for design
@@ -15,4 +15,5 @@ There are many things that the human or AI engineer does not know about the clie
 * Improves accuracy. We have found that farmers themselves nearly universally design better indexes than provided by experts.
 * Provides clientelle with voice and agency
 
+<div id="slide-config" data-type="start" data-next="../key/"> </div>
 

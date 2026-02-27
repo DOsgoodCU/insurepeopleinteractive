@@ -25,4 +25,9 @@ This strategy has been successful at large scales for low cost, in thousands of 
 ![](amharavillages.png)
 
 
+Read this important text. Click the button below when you are done.
 
+<div id="slide-config" 
+     data-type="simple" 
+     data-next="../concreteinput/">
+</div>
