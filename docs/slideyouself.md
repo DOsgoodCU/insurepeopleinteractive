@@ -12,7 +12,7 @@ Click on the tool below, notice how the matching changes as you drag the sliders
 - drag the sliders for the "CHIRPS (Early Season)" to be more focused on the rainfall starting around decad 7 and extending 5-10 decads.
 - pick the timing you prefer
 - Write down the start and end decad for "CHIRPS (Early Season)"
-- **making sure your email** is entered in the login box, **click on "SAVE"**
+- **making sure your email** is entered in the login box, and that **Genete** is the option in view, **click on "SAVE"**
 - Login: once you have saved your choices, you can type your email in the login box then click on login to see what you entered
 - You can change your answer as many times as you want, I think.
 
@@ -33,5 +33,5 @@ This tool is based upon work supported by the National Science Foundation under 
 
 <div id="slide-config"
      data-type="simple"
-     data-next="../toughchoices/">
+     data-next="../classSliders/">
 </div>
