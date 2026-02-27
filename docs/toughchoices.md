@@ -6,7 +6,7 @@ Although years like 2009 is consistently bad, and 2010 is consistently good...
 
 Using the design and evaluation tools we can see that there are multiple options with the same level of high agreement. For example.
 
-The very early time period from decads 6-17:
+The very early time period from decads 6-13:
 
 * 88% agreement
 * Reflects the challenges in 1984 
