@@ -34,5 +34,5 @@ This tool is based upon work supported by the National Science Foundation under 
 
 <div id="slide-config" 
      data-type="simple" 
-     data-next="../phonechoices/">
+     data-next="../feedback/">
 </div>
