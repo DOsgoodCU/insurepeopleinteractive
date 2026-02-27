@@ -20,10 +20,19 @@ The player could win (and perhaps get a prize) if they can guess what others wou
 
 We also know that 2009 was consistently bad, and 2010 was consistently good, so we could also ask people to compare those years so to help filter results.
 
-To experience an example of a phone codesign implimentation that you might use, text or whatsapp **Genete to +1 (646) 217-0881**
+To experience an example of a phone codesign implimentation that you might use, 
+
+# text or whatsapp **Genete to +1 (646) 217-0881** 
+
+**(capitalization is important)**
 
 These tools are flexible for different cogeneration challenges, and they are open source. What would you use these tools and approaches for?
 
 ![](assets/images/84vs02.png)
 
 This tool is based upon work supported by the National Science Foundation under Grant No. 2103794. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+<div id="slide-config" 
+     data-type="simple" 
+     data-next="../phonechoices/">
+</div>

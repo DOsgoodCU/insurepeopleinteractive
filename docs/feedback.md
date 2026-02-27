@@ -1,6 +1,6 @@
 # Answers from Phone Feedback
 
-The answers from the people who have completed the phone feedback "to date" (the day we wrote this part) can help us think through what to do next in the index design.
+The answers from all the people over time who have completed the phone feedback "to date" (the day we wrote this part) can help us think through what to do next in the index design.
 
 **Remember that the phone feedback is from folks going through this exercise, so it is not from the actual people who would be benefitting from the product. 
 This is only a training example to show how this information could be used!**
@@ -38,3 +38,8 @@ The choice of early season vs later season start generally depended on the villa
 Having farmers provide low cost ongoing input like this, iterating over the years their situations change that leads to meaningful impacts and sustained demand for these villages over more than a decade.
 
 ![](amharaprefredearlybluelate.png)
+
+<div id="slide-config" 
+     data-type="simple" 
+     data-next="../classchoices/">
+</div>

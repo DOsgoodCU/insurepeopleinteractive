@@ -39,23 +39,13 @@ The satellite rainfall record is filtered by the farmer reported vulnerability t
 
 * A red o marks any year where none of the satellite indicators were bad enough to be considered a meaningful deficit.
 
-You can explore the agreement in the information 
-
-* Which years did the farmers say were bad that were also represented in the satelite data for the reported seasonal timing?
-
-* Which farmer bad years were not reflected in the satellite data with that timing?
-
-* What is the ratio of years with hits vs misses?
-
-The answers to those questions are summarized automatically if you scroll to the matching table at the bottom of the page.
-
-
 ![](assets/images/badyearvssatellite.png)
 
-![](assets/images/genetematchingtable.png)
+You can explore the agreement in the information.  Please answer the questions below:
 
-In the matching table, you can see how much any data source matched another by looking at the rows and colums.  For example, you can see that the combined severity agreed with the farmer bad years 50% of the time.
-
-*But what if we wanted to know the matching of the timing for rainfall vulnerability earlier in the season?*
-
+<div id="slide-config" 
+     data-type="kobo" 
+     data-next="../matchingtable/" 
+     data-kobo-id="UjtfYdMp">
+</div>
 

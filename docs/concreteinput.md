@@ -34,5 +34,8 @@ If the datasets do not agree, we do not know which are inaccurate.
 
 But we can explore timing parameters to optimize fit using various statistical and performance metrics.
 
-
+<div id="slide-config" 
+     data-type="simple" 
+     data-next="../comparisonexample/">
+</div>
 
