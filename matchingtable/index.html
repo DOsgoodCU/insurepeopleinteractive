@@ -9,6 +9,10 @@
       
       
       
+        <link rel="prev" href="../comparisonexample/">
+      
+      
+        <link rel="next" href="../slideyouself/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -16,7 +20,7 @@
     
     
       
-        <title>Design improvement - Insure People Interactive</title>
+        <title>Matching table - Insure People Interactive</title>
       
     
     
@@ -70,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#design-improvement" class="md-skip">
+        <a href="#matching-table" class="md-skip">
           Skip to content
         </a>
       
@@ -106,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Design improvement
+              Matching table
             
           </span>
         </div>
@@ -282,10 +286,19 @@
       
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../matchingtable/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -295,6 +308,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -441,15 +455,35 @@
 
 
 
-<h1 id="design-improvement">Design improvement</h1>
-<p>You can explore the farmers debate of if rainfall starting around decad 7 is more related to vulnerability than rainfall starting in decad 18.</p>
-<p>The below is an interactive tool to evaluate and co-design indexes.  It is part of our public domain <a href="https://columbia-desdr.github.io/">DESDR</a> open toolkit. </p>
-<p>It has all of the tables and figures we have just worked through <strong>but it also has controls</strong></p>
-<p>Click on the tool below, then drag the sliders for the rainfall early timing to be more focused on the rainfall starting around decad 7 and extending 5-10 decads.</p>
-<p>Do you see changes in matching?  </p>
-<p>Do you have a new timing to verify with farmers?</p>
-<p>Click on the tool below to explore these </p>
-<p><a href="https://columbia-desdr.github.io/Sliders-ethiopia/config"><img alt="" src="../assets/images/slidersGenete.png" /></a></p>
+<h1 id="matching-table">Matching table</h1>
+<p>Many of these questions, and more can be generated automatically.  See the table below.</p>
+<p><img alt="" src="../assets/images/badyearvssatellite.png" /></p>
+<p><img alt="" src="../assets/images/genetematchingtable.png" /></p>
+<p>In the matching table, you can see how much any data source matched another by looking at the rows and columns.<br />
+For example, to see the computer's ratio of number of farmer bad years that were flagged by the combined severity metric, look at the 
+look at the combined_severity column, and the is_bad_year row.  Since there were 8 farmer bad years, 
+and 4 of them had the red combined_severity bar in them, that is 0.50 of the time.</p>
+<p>In insurance, this might reflect the number of droughts a farmer had experienced that had a payout.</p>
+<p>But what if we wanted to check the ratio of combined severity years that farmers said were bad, 
+you would look at the is_bad_year column and the combined_severity_row.   There were 20 red bars 
+representing combined severity years--many of them are really tiny. You need to squint to see the small ones. 
+A way to tell is that any year that has a circle has no severity of any type, and combined severity is triggered 
+when any of the options are triggered.  Four of these years are in farmer bad years, that is 4/18 or 0.20. </p>
+<p>Those are years that the insurance would have had a payout, and the farmer would have wanted the payout.<br />
+Its very interesting that nearly all of the "missed" payouts, that do not occur in farmer bad years are very small.
+That means that it might be possible to set a higher threshold for payouts to eliminate those, 
+and have an insurance that is more acccurate.  That is something that commonly (but not universally) happens in index insurance, 
+where small payouts are less accurate than big payouts.</p>
+<p>Because it is hard to eyeball everything, and we might be working in hundreds or thousands of places, 
+its obviously valuable to have the computer calcuate some things for us. 
+<strong>The computer cannot make all the decisions for us because some of the decisions are difficult trade offs 
+between options that only humans would be able to choose</strong>.  </p>
+<p><strong>Spoiler alert</strong>: Even an expert who does not ping the farmers during the design process could make harmful choices.  </p>
+<p>Lets play the role of that expert!</p>
+<div id="slide-config" 
+     data-type="simple" 
+     data-next="../slideyouself/">
+</div>
 
 
 
@@ -476,6 +510,44 @@
       
         <footer class="md-footer">
   
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../comparisonexample/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Reported Rainfall timing in Village of Genete (Ethiopia)">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Reported Rainfall timing in Village of Genete (Ethiopia)
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../slideyouself/" class="md-footer__link md-footer__link--next" aria-label="Next: Design improvement">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Design improvement
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
     
   
   <div class="md-footer-meta md-typeset">
