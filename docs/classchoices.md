@@ -6,7 +6,7 @@ Their choices will show up below once they have played.
 <iframe src="../genete_results.html" width="100%" height="500px"></iframe>
 
 <div id="slide-config" 
-     data-type="figure" 
+     data-type="simple" 
      data-next="../bangladesh/" 
-     data-img="genete_results.html">
+     >
 </div>
