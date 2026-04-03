@@ -1,0 +1,53 @@
+year,index,index_rank,badyear_rank,badyear_need,gap
+2020,,,,,
+2019,,,,,
+2018,,,,,
+2017,,,,,
+2016,0.0926939991188133,,,,
+2015,0.1153169703647053,,3,,
+2014,,,,,
+2013,,,,,
+2012,0.0959679477677775,,,,
+2011,0.0792944554455444,,,,
+2010,,,,,
+2009,0.0891022574257427,,8,,
+2008,0.0136461386138612,,,,
+2007,0.0050211569684768,,,,
+2006,0.065737516039604,,,,
+2005,,,,,
+2004,0.33398750395636,,,,
+2003,,,,,
+2002,0.0454248888888888,,7,,
+2001,,,,,
+2000,,,,,
+1999,0.00456832,,,,
+1998,0.0128117227722772,,,,
+1997,0.3933518019801981,,2,,
+1996,,,,,
+1995,,,,,
+1994,,,6,,
+1993,,,,,
+1992,0.0203568533333332,,,,
+1991,,,5,,
+1990,0.1617308799999999,,,,
+1989,0.0979884444444444,,,,
+1988,,,,,
+1987,0.138370396039604,,4,,
+1986,,,,,
+1985,0.0684980495049504,,,,
+1984,,,1,,
+1983,,,,,
+1982,0.0246445422222221,,,,
+1981,0.2318544177777777,,,,
+
+STUDENT EXERCISE INSTRUCTIONS
+Step 1: Calculate 'index_rank'
+ - Assign a rank to every positive payout in the 'index' column (largest is 1).
+" - If payouts are tied, give them the same number, then skip a number for the next rank."
+" - (e.g., if there is a tie for 2nd place, ranks would be 1, 2, 2, 4)."
+Step 2: Calculate 'badyear_need'
+" - For each row with a 'badyear_rank', find the row where 'index_rank' matches that number."
+ - Copy the 'index' (payout) value from that rank into the 'badyear_need' cell.
+Step 3: Calculate 'gap'
+ - Subtract 'index' from 'badyear_need' (Gap = Need - Index).
+" - If the result is negative or zero, leave the cell blank."
